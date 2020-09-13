@@ -15,7 +15,7 @@
     "better-ajv-errors": "^0.6.7",
     "firebase-admin": "^9.0.0",
     "firebase-functions": "^3.9.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "uuidv4": "^6.2.0"
   },
   "devDependencies": {
